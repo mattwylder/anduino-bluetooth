@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="heartrate_service">0000180d-0000-1000-8000-00805f9b34fb</string>
+    <string name="heartrate_characteristic">00002a37-0000-1000-8000-00805f9b34fb</string>
+</resources>
